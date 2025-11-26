@@ -96,3 +96,6 @@ Explore filters such as outlet size, Item type, and location to view insights in
 
 This dashboard provides a complete analytical view of Blinkit’s sales ecosystem.
 It helps in understanding sales trends, customer behavior, and outlet performance, enabling smart business decision-making.
+
+screenshot
+Example(https://github.com/kashif-coder/Blinkit-Dashboard/blob/main/snapshot%20of%20the%20blinkit%20dashboard.png)
